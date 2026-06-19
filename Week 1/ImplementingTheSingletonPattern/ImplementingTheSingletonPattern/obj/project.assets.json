@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cognizent\\Round 3\\Task\\Week 1\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern.csproj",
+      "projectUniqueName": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern.csproj",
       "projectName": "ImplementingTheSingletonPattern",
-      "projectPath": "E:\\Cognizent\\Round 3\\Task\\Week 1\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern.csproj",
+      "projectPath": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern.csproj",
       "packagesPath": "C:\\Users\\arbin\\.nuget\\packages\\",
-      "outputPath": "E:\\Cognizent\\Round 3\\Task\\Week 1\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern\\obj\\",
+      "outputPath": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheSingletonPattern\\ImplementingTheSingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arbin\\AppData\\Roaming\\NuGet\\NuGet.Config",
