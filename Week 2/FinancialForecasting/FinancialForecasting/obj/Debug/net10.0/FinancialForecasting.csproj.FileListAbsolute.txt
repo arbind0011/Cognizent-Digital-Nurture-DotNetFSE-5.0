@@ -1,0 +1,15 @@
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.exe
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.deps.json
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.runtimeconfig.json
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.dll
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.pdb
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfoInputs.cache
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfo.cs
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.sourcelink.json
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.dll
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\refint\FinancialForecasting.dll
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.pdb
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.genruntimeconfig.cache
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\ref\FinancialForecasting.dll
