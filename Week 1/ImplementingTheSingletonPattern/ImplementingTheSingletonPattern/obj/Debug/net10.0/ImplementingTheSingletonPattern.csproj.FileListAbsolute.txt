@@ -1,0 +1,14 @@
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\bin\Debug\net10.0\ImplementingTheSingletonPattern.exe
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\bin\Debug\net10.0\ImplementingTheSingletonPattern.deps.json
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\bin\Debug\net10.0\ImplementingTheSingletonPattern.runtimeconfig.json
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\bin\Debug\net10.0\ImplementingTheSingletonPattern.dll
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\bin\Debug\net10.0\ImplementingTheSingletonPattern.pdb
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ImplementingTheSingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ImplementingTheSingletonPattern.AssemblyInfoInputs.cache
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ImplementingTheSingletonPattern.AssemblyInfo.cs
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ImplementingTheSingletonPattern.csproj.CoreCompileInputs.cache
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ImplementingTheSingletonPattern.dll
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\refint\ImplementingTheSingletonPattern.dll
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ImplementingTheSingletonPattern.pdb
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ImplementingTheSingletonPattern.genruntimeconfig.cache
+E:\Cognizent\Round 3\Task\Week 1\ImplementingTheSingletonPattern\ImplementingTheSingletonPattern\obj\Debug\net10.0\ref\ImplementingTheSingletonPattern.dll
