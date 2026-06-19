@@ -1,0 +1,5 @@
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\E-commercePlatformSearchFunction\E-commercePlatformSearchFunction\obj\Debug\net10.0\E_commercePlatformSearchFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\E-commercePlatformSearchFunction\E-commercePlatformSearchFunction\obj\Debug\net10.0\E_commercePlatformSearchFunction.AssemblyInfoInputs.cache
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\E-commercePlatformSearchFunction\E-commercePlatformSearchFunction\obj\Debug\net10.0\E_commercePlatformSearchFunction.AssemblyInfo.cs
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\E-commercePlatformSearchFunction\E-commercePlatformSearchFunction\obj\Debug\net10.0\E_commercePlatformSearchFunction.csproj.CoreCompileInputs.cache
+E:\Cognizent\Round 3\Cognizent-Digital-Nurture-DotNetFSE-5.0\Week 2\E-commercePlatformSearchFunction\E-commercePlatformSearchFunction\obj\Debug\net10.0\E_commercePlatformSearchFunction.sourcelink.json
