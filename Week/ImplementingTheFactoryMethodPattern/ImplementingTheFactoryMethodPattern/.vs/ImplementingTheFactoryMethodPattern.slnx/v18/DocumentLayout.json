@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\excelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\excelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\pdffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\pdffactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\wordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\wordfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\exceldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|e:\\cognizent\\round 3\\cognizent-digital-nurture-dotnetfse-5.0\\week 1\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\implementingthefactorymethodpattern\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973C5CAA-6E2E-4692-AA80-C4A1E08FFA5A}|ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern.csproj|solutionrelative:implementingthefactorymethodpattern\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelFactory.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ExcelFactory.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\ExcelFactory.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ExcelFactory.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\ExcelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:21:34.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfFactory.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\PdfFactory.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\PdfFactory.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\PdfFactory.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\PdfFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:21:23.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordFactory.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\WordFactory.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\WordFactory.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\WordFactory.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\WordFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:21:12.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\DocumentFactory.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\DocumentFactory.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:18:40.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelDocument.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ExcelDocument.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\ExcelDocument.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ExcelDocument.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\ExcelDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:16:04.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\WordDocument.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\WordDocument.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\WordDocument.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:15:37.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\Program.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\Program.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:01:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\PdfDocument.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\PdfDocument.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:15:50.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\IDocument.cs",
+              "RelativeDocumentMoniker": "ImplementingTheFactoryMethodPattern\\IDocument.cs",
+              "ToolTip": "E:\\Cognizent\\Round 3\\Cognizent-Digital-Nurture-DotNetFSE-5.0\\Week 1\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\ImplementingTheFactoryMethodPattern\\IDocument.cs",
+              "RelativeToolTip": "ImplementingTheFactoryMethodPattern\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:04:00.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
